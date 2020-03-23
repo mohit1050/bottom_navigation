@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="recent"
+        android:id="@+id/recent"
+        android:icon="@drawable/ic_android"/>
+
+    <item android:title="favourite"
+        android:id="@+id/favourite"
+        android:icon="@drawable/ic_android"/>
+
+    <item android:title="nearby"
+        android:id="@+id/nearby"
+        android:icon="@drawable/ic_android"/>
+
+</menu>
